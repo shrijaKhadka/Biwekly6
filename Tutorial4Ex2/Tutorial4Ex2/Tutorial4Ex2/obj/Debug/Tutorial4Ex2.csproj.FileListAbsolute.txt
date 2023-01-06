@@ -1,0 +1,7 @@
+G:\DimpuKOI\Tutorial4Ex2\Tutorial4Ex2\bin\Debug\Tutorial4Ex2.exe.config
+G:\DimpuKOI\Tutorial4Ex2\Tutorial4Ex2\bin\Debug\Tutorial4Ex2.exe
+G:\DimpuKOI\Tutorial4Ex2\Tutorial4Ex2\bin\Debug\Tutorial4Ex2.pdb
+G:\DimpuKOI\Tutorial4Ex2\Tutorial4Ex2\obj\Debug\Tutorial4Ex2.csproj.AssemblyReference.cache
+G:\DimpuKOI\Tutorial4Ex2\Tutorial4Ex2\obj\Debug\Tutorial4Ex2.csproj.CoreCompileInputs.cache
+G:\DimpuKOI\Tutorial4Ex2\Tutorial4Ex2\obj\Debug\Tutorial4Ex2.exe
+G:\DimpuKOI\Tutorial4Ex2\Tutorial4Ex2\obj\Debug\Tutorial4Ex2.pdb
