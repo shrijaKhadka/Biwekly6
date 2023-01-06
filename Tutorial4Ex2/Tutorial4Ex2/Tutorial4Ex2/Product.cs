@@ -11,6 +11,7 @@ namespace Tutorial4Ex2
         public int id { get; set; }
         public double price { get; set; }
 
+        public string manufacturer { get; set; }
 
     }
 }

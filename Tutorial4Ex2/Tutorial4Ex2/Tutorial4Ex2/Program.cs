@@ -22,9 +22,11 @@ namespace Tutorial4Ex2
 
             p1.id = 44;
             p1.price = 9.5;
+            p1.manufacturer = "Nike";
 
             p2.id = 58;
             p2.price = 5.5;
+            p2.manufacturer = "Adidas";
 
             cust1.shopList.Add(p1);
             cust2.shopList.Add(p2);
