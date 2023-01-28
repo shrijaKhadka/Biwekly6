@@ -16,6 +16,7 @@ namespace Tutorial4Ex2
 
             Console.WriteLine("Address of 1st Cusotmer: " + cust1.id);
             Console.WriteLine("Email ID of 2nd Customer: " + cust2.name);
+             Console.WriteLine("test");
 
             Product p1 = new Product();
             Product p2 = new Product();
